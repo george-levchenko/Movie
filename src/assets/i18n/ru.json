@@ -1,0 +1,6 @@
+{
+  "HOME": {
+    "HELLO_WITH_PARAM": "Привет {{value}}",
+    "HELLO": "Привет"
+  }
+}
