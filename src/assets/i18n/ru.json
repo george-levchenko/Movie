@@ -2,5 +2,9 @@
   "HOME": {
     "HELLO_WITH_PARAM": "Привет {{value}}",
     "HELLO": "Привет"
+  },
+  "ERROR": {
+    "WRONG_PAGE": "Уууупс! Страница не найдена!",
+    "MAIN_PAGE": "На главную страницу!"
   }
 }

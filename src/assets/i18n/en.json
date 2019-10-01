@@ -2,5 +2,9 @@
   "HOME": {
     "HELLO_WITH_PARAM": "hello {{value}}",
     "HELLO": "hello"
+  },
+  "ERROR": {
+    "WRONG_PAGE": "Ooops! Page not found!",
+    "MAIN_PAGE": "To the main page!"
   }
 }
